@@ -1,6 +1,7 @@
-# Hello World Example
+# HTTP REQUEST FOR ESP32
 
-Starts a FreeRTOS task to print "Hello World"
 
 See the README.md file in the upper level 'examples' directory for more information about examples.
 # HTTP_request_esp32
+
+
