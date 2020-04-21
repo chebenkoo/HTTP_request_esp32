@@ -2,7 +2,7 @@ abort.o: /home/lch/esp/esp-idf/components/newlib/abort.c \
  /home/lch/esp/esp-idf/components/esp_system/include/esp_system.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
@@ -28,7 +28,7 @@ abort.o: /home/lch/esp/esp-idf/components/newlib/abort.c \
 
 /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

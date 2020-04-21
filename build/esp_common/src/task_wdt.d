@@ -1,6 +1,6 @@
 src/task_wdt.o: \
  /home/lch/esp/esp-idf/components/esp_common/src/task_wdt.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h \
@@ -76,7 +76,7 @@ src/task_wdt.o: \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc_cntl_reg.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc_cntl_struct.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

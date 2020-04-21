@@ -9,7 +9,7 @@ src/bootloader_mem.o: \
  /home/lch/esp/esp-idf/components/soc/include/hal/cpu_hal.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/cpu_types.h \
  /home/lch/esp/esp-idf/components/soc/src/esp32/include/hal/cpu_ll.h \
@@ -43,7 +43,7 @@ src/bootloader_mem.o: \
 
 /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

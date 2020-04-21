@@ -13,7 +13,7 @@ src/hal/spi_flash_hal_iram.o: \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/spi_struct.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_sig_map.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/spi_types.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/spi_flash_types.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_types.h \
@@ -52,7 +52,7 @@ src/hal/spi_flash_hal_iram.o: \
 
 /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_sig_map.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/include/hal/spi_types.h:
 

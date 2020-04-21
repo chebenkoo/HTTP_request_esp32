@@ -6,7 +6,7 @@ src/hal/soc_hal.o: /home/lch/esp/esp-idf/components/soc/src/hal/soc_hal.c \
  /home/lch/esp/esp-idf/components/soc/include/hal/cpu_types.h \
  /home/lch/esp/esp-idf/components/soc/src/esp32/include/hal/cpu_ll.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/cpu_caps.h \
  /home/lch/esp/esp-idf/components/xtensa/include/xt_instr_macros.h \
  /home/lch/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h \
@@ -38,7 +38,7 @@ src/hal/soc_hal.o: /home/lch/esp/esp-idf/components/soc/src/hal/soc_hal.c \
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/cpu_caps.h:
 

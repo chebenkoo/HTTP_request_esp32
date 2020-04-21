@@ -21,7 +21,7 @@ src/hal/dac_hal.o: /home/lch/esp/esp-idf/components/soc/src/hal/dac_hal.c \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/dac_channel.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/dac_caps.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/dac_types.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/hal_defs.h \
  /home/lch/esp/esp-idf/components/log/include/esp_log.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -72,7 +72,7 @@ src/hal/dac_hal.o: /home/lch/esp/esp-idf/components/soc/src/hal/dac_hal.c \
 
 /home/lch/esp/esp-idf/components/soc/include/hal/dac_types.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/include/hal/hal_defs.h:
 

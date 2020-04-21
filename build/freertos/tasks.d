@@ -1,5 +1,5 @@
 tasks.o: /home/lch/esp/esp-idf/components/freertos/tasks.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/esp_newlib.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -56,7 +56,7 @@ tasks.o: /home/lch/esp/esp-idf/components/freertos/tasks.c \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/semphr.h \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/queue.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/newlib/platform_include/esp_newlib.h:
 

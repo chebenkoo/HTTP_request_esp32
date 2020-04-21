@@ -1,6 +1,6 @@
 src/core_dump_common.o: \
  /home/lch/esp/esp-idf/components/espcoredump/src/core_dump_common.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/espcoredump/include_core_dump/esp_core_dump_priv.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
@@ -55,7 +55,7 @@ src/core_dump_common.o: \
  /home/lch/esp/esp-idf/components/bootloader_support/include/esp_app_format.h \
  /home/lch/esp/esp-idf/components/espcoredump/include_core_dump/core_dump_elf.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/espcoredump/include_core_dump/esp_core_dump_priv.h:
 

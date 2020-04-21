@@ -14,7 +14,7 @@ port/esp32/dport_panic_highint_hdl.o: \
  /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/xtensa_context.h \
  /home/lch/esp/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_private/panic_reason.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/dport_reg.h \
@@ -48,7 +48,7 @@ port/esp32/dport_panic_highint_hdl.o: \
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_private/panic_reason.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h:
 

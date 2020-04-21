@@ -10,7 +10,7 @@ src/hal/sdio_slave_hal.o: \
  /home/lch/esp/esp-idf/components/soc/include/hal/sdio_slave_hal.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/soc/include/soc/lldesc.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/lldesc.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/sdio_slave_ll.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/slc_reg.h \
@@ -42,7 +42,7 @@ src/hal/sdio_slave_hal.o: \
 
 /home/lch/esp/esp-idf/components/soc/include/soc/lldesc.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/lldesc.h:
 

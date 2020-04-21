@@ -2,7 +2,7 @@ host_file_io.o: /home/lch/esp/esp-idf/components/app_trace/host_file_io.c \
  /home/lch/esp/esp-idf/components/app_trace/include/esp_app_trace.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/app_trace/include/esp_app_trace_util.h \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -54,7 +54,7 @@ host_file_io.o: /home/lch/esp/esp-idf/components/app_trace/host_file_io.c \
 
 /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

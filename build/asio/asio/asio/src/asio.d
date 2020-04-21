@@ -3,7 +3,7 @@ asio/asio/src/asio.o: \
  /home/lch/esp/esp-idf/components/asio/asio/asio/include/asio/impl/src.hpp \
  /home/lch/esp/esp-idf/components/asio/asio/asio/include/asio/detail/config.hpp \
  /home/lch/esp/esp-idf/components/asio/port/include/esp_asio_config.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp \
  /home/lch/esp/esp-idf/components/asio/asio/asio/include/asio/error.hpp \
  /home/lch/esp/esp-idf/components/asio/asio/asio/include/asio/error_code.hpp \
@@ -315,7 +315,7 @@ asio/asio/src/asio.o: \
 
 /home/lch/esp/esp-idf/components/asio/port/include/esp_asio_config.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp:
 

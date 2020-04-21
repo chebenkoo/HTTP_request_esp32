@@ -1,6 +1,6 @@
 src/esp32/emac_hal.o: \
  /home/lch/esp/esp-idf/components/soc/src/esp32/emac_hal.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/lch/esp/esp-idf/components/soc/soc/include/soc/gpio_periph.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/io_mux_reg.h \
@@ -28,7 +28,7 @@ src/esp32/emac_hal.o: \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/emac_mac_struct.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/emac_ext_struct.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

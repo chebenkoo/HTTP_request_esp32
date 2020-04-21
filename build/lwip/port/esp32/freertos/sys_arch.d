@@ -7,7 +7,7 @@ port/esp32/freertos/sys_arch.o: \
  /home/lch/esp/esp-idf/components/lwip/port/esp32/include/arch/cc.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/errno.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/lwip/port/esp32/include/arch/sys_arch.h \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -91,7 +91,7 @@ port/esp32/freertos/sys_arch.o: \
 
 /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

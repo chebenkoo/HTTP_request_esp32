@@ -1,6 +1,6 @@
 hw_random.o: /home/lch/esp/esp-idf/components/esp32/hw_random.c \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp32/include/esp32/clk.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/wdev_reg.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
@@ -24,7 +24,7 @@ hw_random.o: /home/lch/esp/esp-idf/components/esp32/hw_random.c \
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp32/include/esp32/clk.h:
 

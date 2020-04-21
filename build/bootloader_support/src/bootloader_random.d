@@ -1,6 +1,6 @@
 src/bootloader_random.o: \
  /home/lch/esp/esp-idf/components/bootloader_support/src/bootloader_random.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/bootloader_support/include/bootloader_random.h \
  /home/lch/esp/esp-idf/components/soc/include/soc/cpu.h \
  /home/lch/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
@@ -61,7 +61,7 @@ src/bootloader_random.o: \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_idf_version.h \
  /home/lch/esp/esp-idf/components/driver/include/driver/periph_ctrl.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/bootloader_support/include/bootloader_random.h:
 

@@ -4,7 +4,7 @@ src/bootloader_efuse_esp32.o: \
  /home/lch/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_types.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/lch/esp/esp-idf/components/bootloader_support/include/esp_app_format.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h \
@@ -26,7 +26,7 @@ src/bootloader_efuse_esp32.o: \
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_types.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

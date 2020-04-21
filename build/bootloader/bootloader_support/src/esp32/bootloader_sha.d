@@ -9,7 +9,7 @@ src/esp32/bootloader_sha.o: \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/dport_access.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp32/include/esp32/dport_access.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/uart_reg.h \
  /home/lch/esp/esp-idf/components/xtensa/include/xtensa/xtruntime.h \
@@ -43,7 +43,7 @@ src/esp32/bootloader_sha.o: \
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp32/include/esp32/dport_access.h:
 

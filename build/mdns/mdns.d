@@ -1,7 +1,7 @@
 mdns.o: /home/lch/esp/esp-idf/components/mdns/mdns.c \
  /home/lch/esp/esp-idf/components/mdns/include/mdns.h \
  /home/lch/esp/esp-idf/components/esp_netif/include/esp_netif.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_wifi/include/esp_wifi_types.h \
  /home/lch/esp/esp-idf/components/esp_wifi/include/esp_private/esp_wifi_types_private.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
@@ -142,7 +142,7 @@ mdns.o: /home/lch/esp/esp-idf/components/mdns/mdns.c \
 
 /home/lch/esp/esp-idf/components/esp_netif/include/esp_netif.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_wifi/include/esp_wifi_types.h:
 

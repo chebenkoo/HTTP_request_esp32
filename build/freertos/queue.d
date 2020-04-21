@@ -1,5 +1,5 @@
 queue.o: /home/lch/esp/esp-idf/components/freertos/queue.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h \
@@ -49,7 +49,7 @@ queue.o: /home/lch/esp/esp-idf/components/freertos/queue.c \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/list.h \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/queue.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

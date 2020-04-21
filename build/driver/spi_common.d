@@ -1,5 +1,5 @@
 spi_common.o: /home/lch/esp/esp-idf/components/driver/spi_common.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/driver/include/driver/spi_master.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
@@ -92,7 +92,7 @@ spi_common.o: /home/lch/esp/esp-idf/components/driver/spi_common.c \
  /home/lch/esp/esp-idf/components/soc/src/esp32/include/hal/spi_ll.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/hal_defs.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/driver/include/driver/spi_master.h:
 

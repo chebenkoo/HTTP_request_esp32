@@ -2,7 +2,7 @@ rmt.o: /home/lch/esp/esp-idf/components/driver/rmt.c \
  /home/lch/esp/esp-idf/components/esp32/include/esp_intr_alloc.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/xtensa_api.h \
  /home/lch/esp/esp-idf/components/xtensa/include/xtensa/hal.h \
@@ -81,7 +81,7 @@ rmt.o: /home/lch/esp/esp-idf/components/driver/rmt.c \
 
 /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

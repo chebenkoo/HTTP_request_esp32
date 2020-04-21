@@ -14,7 +14,7 @@ xtensa/xtensa_intr_asm.o: \
  /home/lch/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
  /home/lch/esp/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
  /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/xtensa_config.h \
  /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/xtensa_context.h
 
@@ -46,7 +46,7 @@ xtensa/xtensa_intr_asm.o: \
 
 /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/FreeRTOSConfig.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/freertos/xtensa/include/freertos/xtensa_config.h:
 

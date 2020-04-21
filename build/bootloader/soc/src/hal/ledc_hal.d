@@ -1,7 +1,7 @@
 src/hal/ledc_hal.o: \
  /home/lch/esp/esp-idf/components/soc/src/hal/ledc_hal.c \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/ledc_hal.h \
  /home/lch/esp/esp-idf/components/soc/src/esp32/include/hal/ledc_ll.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/ledc_types.h \
@@ -15,7 +15,7 @@ src/hal/ledc_hal.o: \
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/include/hal/ledc_hal.h:
 

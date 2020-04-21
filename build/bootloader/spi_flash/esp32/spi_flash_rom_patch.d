@@ -1,6 +1,6 @@
 esp32/spi_flash_rom_patch.o: \
  /home/lch/esp/esp-idf/components/spi_flash/esp32/spi_flash_rom_patch.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/gpio.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
@@ -16,7 +16,7 @@ esp32/spi_flash_rom_patch.o: \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/spi_struct.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/gpio_sig_map.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

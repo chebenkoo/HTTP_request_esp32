@@ -1,6 +1,6 @@
 src/bootloader_common.o: \
  /home/lch/esp/esp-idf/components/bootloader_support/src/bootloader_common.c \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/log/include/esp_log.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
@@ -41,7 +41,7 @@ src/bootloader_common.o: \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/efuse_reg.h \
  /home/lch/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_sha.h
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h:
 

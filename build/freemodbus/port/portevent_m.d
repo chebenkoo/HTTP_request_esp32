@@ -2,7 +2,7 @@ port/portevent_m.o: \
  /home/lch/esp/esp-idf/components/freemodbus/port/portevent_m.c \
  /home/lch/esp/esp-idf/components/freemodbus/modbus/include/mb_m.h \
  /home/lch/esp/esp-idf/components/freemodbus/modbus/include/mbconfig.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/freemodbus/port/port.h \
  /home/lch/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
@@ -83,7 +83,7 @@ port/portevent_m.o: \
 
 /home/lch/esp/esp-idf/components/freemodbus/modbus/include/mbconfig.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/freemodbus/port/port.h:
 

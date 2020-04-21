@@ -15,7 +15,7 @@ src/esp32/adc_hal.o: \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/adc_channel.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/adc_caps.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/adc_types.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/adc_hal.h
 
 /home/lch/esp/esp-idf/components/soc/src/esp32/include/hal/adc_hal.h:
@@ -48,7 +48,7 @@ src/esp32/adc_hal.o: \
 
 /home/lch/esp/esp-idf/components/soc/include/hal/adc_types.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/include/hal/adc_hal.h:
 /home/lch/esp/esp-idf/components/soc/src/esp32/adc_hal.c:

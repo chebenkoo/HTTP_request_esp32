@@ -1,7 +1,7 @@
 src/esp32/rtc_clk.o: \
  /home/lch/esp/esp-idf/components/soc/src/esp32/rtc_clk.c \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/soc.h \
@@ -59,7 +59,7 @@ src/esp32/rtc_clk.o: \
 
 /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/rtc.h:
 

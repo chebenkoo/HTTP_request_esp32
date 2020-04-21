@@ -1,6 +1,6 @@
 src/cpu_util.o: /home/lch/esp/esp-idf/components/soc/src/cpu_util.c \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/include/soc/cpu.h \
  /home/lch/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
  /home/lch/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -38,7 +38,7 @@ src/cpu_util.o: /home/lch/esp/esp-idf/components/soc/src/cpu_util.c \
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/include/soc/cpu.h:
 

@@ -2,7 +2,7 @@ src/hal/spi_slave_hal_iram.o: \
  /home/lch/esp/esp-idf/components/soc/src/hal/spi_slave_hal_iram.c \
  /home/lch/esp/esp-idf/components/soc/include/hal/spi_slave_hal.h \
  /home/lch/esp/esp-idf/components/soc/include/soc/lldesc.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/lldesc.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/spi_struct.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_types.h \
@@ -25,7 +25,7 @@ src/hal/spi_slave_hal_iram.o: \
 
 /home/lch/esp/esp-idf/components/soc/include/soc/lldesc.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/lldesc.h:
 

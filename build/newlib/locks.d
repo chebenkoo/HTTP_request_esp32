@@ -1,6 +1,6 @@
 locks.o: /home/lch/esp/esp-idf/components/newlib/locks.c \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/include/soc/cpu.h \
  /home/lch/esp/esp-idf/components/xtensa/include/xtensa/corebits.h \
  /home/lch/esp/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -53,7 +53,7 @@ locks.o: /home/lch/esp/esp-idf/components/newlib/locks.c \
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/include/soc/cpu.h:
 

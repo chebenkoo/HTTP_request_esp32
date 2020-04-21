@@ -3,7 +3,7 @@ src/esp_eth_mac_esp32.o: \
  /home/lch/esp/esp-idf/components/driver/include/driver/periph_ctrl.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/periph_defs.h \
  /home/lch/esp/esp-idf/components/driver/include/driver/gpio.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
@@ -104,7 +104,7 @@ src/esp_eth_mac_esp32.o: \
 
 /home/lch/esp/esp-idf/components/driver/include/driver/gpio.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h:
 

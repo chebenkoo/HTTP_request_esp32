@@ -56,7 +56,7 @@ static int s_retry_num = 0;
 
 
 void uart_init(void);
-static void receiveData(void *arg);
+static void receiveData(char *data);
 int sendData(const char* logName, const char* data);
 static void event_handler(void* arg, esp_event_base_t event_base, int32_t event_id, void* event_data);
 void wifi_init_sta(void);
@@ -82,11 +82,11 @@ void uart_init(void) {
 }
 
 //receive data via uart
-static char receiveData()
+static char receiveData(char *data)
 {
     static const char *RX_TASK_TAG = "RX_TASK";
     esp_log_level_set(RX_TASK_TAG, ESP_LOG_INFO);
-    uint8_t* data = (uint8_t*) malloc(RX_BUF_SIZE+1);
+    //uint8_t* data = (uint8_t*) malloc(RX_BUF_SIZE+1);
     while (1) {
         const int rxBytes = uart_read_bytes(UART_NUM_1, data, RX_BUF_SIZE, 1000 / portTICK_RATE_MS);
         if (rxBytes > 0) {
@@ -218,6 +218,7 @@ void httpGetRequest()
     }
     ESP_LOG_BUFFER_HEX(TAG_http, local_response_buffer, strlen(local_response_buffer));
 
+    sendData("GET_REQUEST", (const char*)local_response_buffer);
 
 }
 
@@ -249,6 +250,8 @@ static void httpPostRequest(void)
     } else {
         ESP_LOGE(TAG_http, "HTTP POST request failed: %s", esp_err_to_name(err));
     }
+    sendData("POST_REQUEST", (const char*)local_response_buffer);
+
 
     esp_http_client_cleanup(client);
 
@@ -280,6 +283,10 @@ void app_main(void)
 			 getATcommand(AT_buff);
 
 		 }
+		 else
+		 {
+			 printf("ERROR AT commands");
+		 }
 
 	 }
 
@@ -289,17 +296,12 @@ void app_main(void)
 void getATcommand(char *text)
 {
     int command;
-    char temp[10] = "";
 
-
-    takecommand(text,temp);
-
-    if (strcmp(temp, "GET") == 0)
+    if (strcmp(text, "AT+GET") == 0)
         command = 1;
 
-    if (strcmp(temp, "POST") == 0)
+    if (strcmp(text, "AT+POST") == 0)
         command = 2;
-
 
     switch(command)
     {
@@ -318,12 +320,4 @@ void getATcommand(char *text)
      }
 }
 
-void takecommand(char *mycmd, char *hold)
-{
-    int i;
-    for(i = 0; i < 10 ; i++)
-    {
-         hold[i] = mycmd[i+3];
-    }
-}
 

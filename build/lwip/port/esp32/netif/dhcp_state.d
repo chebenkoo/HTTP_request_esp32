@@ -1,7 +1,7 @@
 port/esp32/netif/dhcp_state.o: \
  /home/lch/esp/esp-idf/components/lwip/port/esp32/netif/dhcp_state.c \
  /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h \
  /home/lch/esp/esp-idf/components/nvs_flash/include/nvs.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
@@ -124,7 +124,7 @@ port/esp32/netif/dhcp_state.o: \
 
 /home/lch/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_common/include/esp_compiler.h:
 

@@ -11,7 +11,7 @@ src/hal/wdt_hal_iram.o: \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_bit_defs.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/timer_group_struct.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/soc/src/esp32/include/hal/rwdt_ll.h \
  /home/lch/esp/esp-idf/components/soc/soc/include/soc/rtc_cntl_periph.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc_cntl_reg.h \
@@ -39,7 +39,7 @@ src/hal/wdt_hal_iram.o: \
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/soc/src/esp32/include/hal/rwdt_ll.h:
 

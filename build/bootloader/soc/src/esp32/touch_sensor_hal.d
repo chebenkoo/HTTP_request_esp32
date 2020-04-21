@@ -14,7 +14,7 @@ src/esp32/touch_sensor_hal.o: \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/sens_struct.h \
  /home/lch/esp/esp-idf/components/soc/soc/esp32/include/soc/rtc_io_struct.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/touch_sensor_types.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h \
  /home/lch/esp/esp-idf/components/soc/include/hal/touch_sensor_hal.h
 
@@ -46,7 +46,7 @@ src/esp32/touch_sensor_hal.o: \
 
 /home/lch/esp/esp-idf/components/soc/include/hal/touch_sensor_types.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/xtensa/include/esp_attr.h:
 

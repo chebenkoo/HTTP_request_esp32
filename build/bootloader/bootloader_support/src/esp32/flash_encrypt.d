@@ -3,7 +3,7 @@ src/esp32/flash_encrypt.o: \
  /home/lch/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_err.h \
  /home/lch/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/lch/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/lch/esp/esp-idf/components/esp_common/include/esp_types.h \
@@ -55,7 +55,7 @@ src/esp32/flash_encrypt.o: \
 
 /home/lch/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/bootloader/../include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/bootloader/../include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

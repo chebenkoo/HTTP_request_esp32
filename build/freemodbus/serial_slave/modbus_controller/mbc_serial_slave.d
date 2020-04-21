@@ -2,7 +2,7 @@ serial_slave/modbus_controller/mbc_serial_slave.o: \
  /home/lch/esp/esp-idf/components/freemodbus/serial_slave/modbus_controller/mbc_serial_slave.c \
  /home/lch/esp/esp-idf/components/newlib/platform_include/sys/time.h \
  /home/lch/esp/esp-idf/components/log/include/esp_log.h \
- /home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h \
+ /home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h \
  /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  /home/lch/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/lch/esp/esp-idf/components/freemodbus/modbus/include/mb.h \
@@ -90,7 +90,7 @@ serial_slave/modbus_controller/mbc_serial_slave.o: \
 
 /home/lch/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/lch/Desktop/eclipse_workspace/hello_world/build/include/sdkconfig.h:
+/home/lch/Desktop/C++/HTTP_request_esp32/build/include/sdkconfig.h:
 
 /home/lch/esp/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
