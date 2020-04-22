@@ -283,11 +283,6 @@ void app_main(void)
 			 getATcommand(AT_buff);
 
 		 }
-		 else
-		 {
-			 printf("ERROR AT commands");
-		 }
-
 	 }
 
 }
